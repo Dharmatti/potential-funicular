@@ -94,7 +94,7 @@
 ## Variables
 
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
+* `BOT_TOKEN`: Create a bot using [7617935942:AAER-5c2EI7iAq7I1m5Jx6PMUJDWXMCp7AA](https://t.me/dvittal_kannada_movie_bot), and get the Telegram API token.
 * `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
